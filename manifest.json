@@ -1,5 +1,6 @@
 {
     "name": "PWA Demo",
+    "key": "MIGfMA3GCSqGSIb3DFEBAQUAA4GNADCBiQKBgQDcBHwzDvyBQ6bDppkIs9MP4ksKqCMyXQ/A52JivIQLh4YO/9vJsT3oaZhSpUQK9RCocOEQvwsHsFReW2nUEc6OLLyoKJLxIb7KkLGsmfakkut/fFdNJYh0xOTbSN8YvLWcqph09XAY2Y/f0LV7vfO1cuCqtkMt8hFrBGWxRdf9HDJSKALU",
     "start_url": "/index.html",
     "display": "standalone",
     "icons": [{
